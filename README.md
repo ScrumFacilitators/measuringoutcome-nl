@@ -4,32 +4,30 @@
 
 Hier vind je beknopte beschrijving en dingen die handig zijn om te weten over het 'Measuring Outcome' spel. Tips hoe te faciliteren vind je in het deck zelf.
 
---todo: translate the rest / verder vertalen --
+Dit spel is gebaseerd op het Evidence-Based Management (EBM) framework van Scrum.org. EBM is een empirisch framework waarmee organisaties kunnen meten wat de (ogenschijnlijke) Productwaarde is, zowel als hoe effectief een Product ontwikkeld en geleverd wordt. De metingen kunnen worden geïnspecteerd om de Productwaarde te helpen maximaliseren en de manier van werken te verbeteren.
 
-This game is based on Evidence-Based Management (EBM). EBM is an empirical framework which organizations can use to help measure the (perceived) product value and the way they deliver their product(s). The measurements can be inspected to help maximize product value and improve the way of working.
+## De KVM's zijn niet heilig
 
-## The KVMs are not set in stone
+In de EBM whitepaper staan gesuggereerde Key Value Measures (KVMs). Deze zijn niet heilig. Het zijn slechts suggesties van veelgebruikte metingen, die je in jouw situatie kunt gebruiken als vertrekpunt en om het framework beter te begrijpen. Tijdens het spel zul je op deze KVMs reflecteren, ze bespreken en de gelegehnheid hebben om ook eigen KVM's te definieren.
 
-Keep in mind that the KVMs are not set in stone. These are measures suggested from the EBM framework. During the game, you'll have opportunities to reflect on these KVMs, discuss and come up with new valuable KVMs yourself. 
+## Om je rol als facilitator te ondersteunen
 
-## To make your life easier
-
-To make life easier, we've included a manual on how to facilitate this exercise and a Cheat Sheet where all the Key Value Measures (KVMs) are explained so relax... Now you can focus totally on the exercise as a facilitator. 
+Omdat faciliteren al je aandacht vereist, hebben we een simpel stappenplan in het spel opgenomen. Hierin vind je hoe je het spel kunt faciliteren en een spiekbrief met alle KVMs met toelichting. Dus relax, en wees de beste facilitator die je kunt zijn!
 
 ## Releases
 
-Use the **Release** to get the most stable and updated version of the Measuring Outcome Exercise. We'll promise to keep it updated ;-)
+Download de [nieuwste **Release**](https://github.com/ScrumFacilitators/measuringoutcome-nl/releases/latest) om de meest stabiele en recente versie te gebruiken van het 'Measuring Outcome' spel. Wij beloven dat we deze up-to-date houden. ;-)
 
-## License
+## Licentie
 
-Measuring Outcome by Scrum Facilitators is licensed under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/). All the materials in this repository are subject to this license. See the above link for a human readable summary and the included LICENSE.md file for the full license text.
+'Measuring Outcome' van Scrum Facilitators is gelicenseerd als [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/). Alle materialen in deze repository vallen onder deze licentie. Klik op de link hierboven voor een toelichting op de licentie.
 
-*There is a 0,000001% chance that you will come up with a better design. If this is the case, do feel free to change it. We would love it if you could mention us 👍 
+*Er is 0,000001% kans dat je een beter visueel ontwerp kunt maken. Wil je dit doen, laat het ons weten, zodat we kunnen overwegen verbeteringen over te nemen. Ook is het super fijn wanneer je ons helpt dit spel verder te verspreiden. Tag ons op social media of stuur ons een berichtje wanneer je de game gebruikt! 👍 
 
 ***
 
-Have fun!
-Greetings from the Scrum Facilitators crew
+Veel speelplezier!
+Groetjes van de Scrum Facilitators crew
 
 www.scrumfacilitators.nl
 
