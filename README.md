@@ -2,7 +2,7 @@
 
 **Hoi Scrum Facilitators!**
 
-Welkom bij de 'MEasuring Outcome' wiki.
+Hier vind je beknopte beschrijving en dingen die handig zijn om te weten over het 'Measuring Outcome' spel. Tips hoe te faciliteren vind je in het deck zelf.
 
 --todo: translate the rest / verder vertalen --
 
