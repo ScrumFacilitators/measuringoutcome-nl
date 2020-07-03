@@ -1,8 +1,10 @@
 # Measuring Outcome
 
-**Hi Scrum Facilitators!**
+**Hoi Scrum Facilitators!**
 
-Welcome to the Measuring Outcome wiki.
+Welkom bij de 'MEasuring Outcome' wiki.
+
+--todo: translate the rest / verder vertalen --
 
 This game is based on Evidence-Based Management (EBM). EBM is an empirical framework which organizations can use to help measure the (perceived) product value and the way they deliver their product(s). The measurements can be inspected to help maximize product value and improve the way of working.
 
