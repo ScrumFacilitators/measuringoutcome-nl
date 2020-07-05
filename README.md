@@ -6,6 +6,9 @@ Hier vind je beknopte beschrijving en dingen die handig zijn om te weten over he
 
 Dit spel is gebaseerd op het Evidence-Based Management (EBM) framework van Scrum.org. EBM is een empirisch framework waarmee organisaties kunnen meten wat de (ogenschijnlijke) Productwaarde is, zowel als hoe effectief een Product ontwikkeld en geleverd wordt. De metingen kunnen worden geïnspecteerd om de Productwaarde te helpen maximaliseren en de manier van werken te verbeteren.
 
+Deze inhoud is een vertaling van het Engelse spel, dat je hier kunt vinden: [Measuring Outcome (english)](https://github.com/ScrumFacilitators/measuringoutcome-en).
+
+
 ## De KVM's zijn niet heilig
 
 In de EBM whitepaper staan gesuggereerde Key Value Measures (KVMs). Deze zijn niet heilig. Het zijn slechts suggesties van veelgebruikte metingen, die je in jouw situatie kunt gebruiken als vertrekpunt en om het framework beter te begrijpen. Tijdens het spel zul je op deze KVMs reflecteren, ze bespreken en de gelegehnheid hebben om ook eigen KVM's te definieren.
