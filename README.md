@@ -23,7 +23,7 @@ Download de [nieuwste **Release**](https://github.com/ScrumFacilitators/measurin
 
 ## Licentie
 
-'Measuring Outcome' van Scrum Facilitators is gelicenseerd als [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/). Alle materialen in deze repository vallen onder deze licentie. Klik op de link hierboven voor een toelichting op de licentie.
+'Measuring Outcome' van Scrum Facilitators is gelicenseerd als [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.nl). Alle materialen in deze repository vallen onder deze licentie. Klik op de link hierboven voor een toelichting op de licentie.
 
 *Er is 0,000001% kans dat je een beter visueel ontwerp kunt maken. Wil je dit doen, laat het ons weten, zodat we kunnen overwegen verbeteringen over te nemen. Ook is het super fijn wanneer je ons helpt dit spel verder te verspreiden. Tag ons op social media of stuur ons een berichtje wanneer je de game gebruikt! 👍 
 
