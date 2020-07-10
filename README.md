@@ -20,6 +20,11 @@ Omdat faciliteren al je aandacht vereist, hebben we een simpel stappenplan in he
 
 Download de [nieuwste **Release**](https://github.com/ScrumFacilitators/measuringoutcome-nl/releases/latest) om de meest stabiele en recente versie te gebruiken van het 'Uitkomst Meten' spel. Wij beloven dat we deze up-to-date houden. ;-)
 
+## Andere talen 
+
+- [Measure Outcomes](https://github.com/ScrumFacilitators/measuringoutcome-en/releases/latest) (english) / Engels (origineel)
+- [Medición del Resultado](https://github.com/ScrumFacilitators/measuringoutcome-es/releases/latest) (espanol) / spaanse vertaling
+
 ## Licentie
 
 'Uitkomst Meten' van Scrum Facilitators is gelicenseerd onder [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.nl). Alle materialen in deze repository vallen onder deze licentie. Klik op de link hierboven voor een toelichting op de licentie.
