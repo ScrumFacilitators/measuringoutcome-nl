@@ -18,7 +18,7 @@ Omdat faciliteren al je aandacht vereist, hebben we een simpel stappenplan in he
 
 ## Releases
 
-Download de [nieuwste **Release**](https://github.com/ScrumFacilitators/measuringoutcome-nl/releases/latest) om de meest stabiele en recente versie te gebruiken van het 'Uitkomst Meten' spel. Wij beloven dat we deze up-to-date houden. ;-)
+De huidige release is up to date met de EBM Guide zoals deze in 2017 is uitgebracht. Download de [nieuwste **Release**](https://github.com/ScrumFacilitators/measuringoutcome-nl/releases/latest) om de meest stabiele en recente versie te gebruiken van het 'Uitkomst Meten' spel. Wij beloven dat we deze up-to-date houden. ;-)
 
 ## Andere talen 
 
